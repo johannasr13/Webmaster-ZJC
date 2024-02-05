@@ -52,3 +52,9 @@ div {
     background-color: bisque;
     
 }
+
+.column-top{
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
