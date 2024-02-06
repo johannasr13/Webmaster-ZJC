@@ -26,6 +26,8 @@ body {
 }
 .column-left {
     background-color: #fbf1d9;
+    border-top-left-radius: 5rem;
+    
 }
     
 
