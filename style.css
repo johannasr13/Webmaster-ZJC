@@ -56,6 +56,13 @@ div {
     padding: 0px 10px;
     
 }
+img {
+    position: fixed;
+    top: 0px;
+    right:0px;
+    text-align: center;
+    padding: 0px 10px;
+}
 
 .column-center{
     background-color: bisque;
