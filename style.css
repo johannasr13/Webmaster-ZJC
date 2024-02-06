@@ -49,18 +49,17 @@ div {
 }
 
 .logo {
+    position: fixed;
     top: 0px;
     right:0px;
-    text-align: center;
-    padding: 0px 10px;
+
     
 }
 .TSA {
     position: fixed;
     top: 0px;
     right:0px;
-    text-align: center;
-    padding: 0px 10px;
+    
 }
 
 .column-center{
