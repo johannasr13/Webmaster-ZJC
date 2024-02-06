@@ -26,8 +26,10 @@ body {
 }
 .column-left {
     background-color: #fbf1d9;
-    border-top-left-radius: 5rem;
-    border-bottom-right-radius: 5rem;
+    /*border-top-left-radius: 5rem; */
+   /* border-bottom-right-radius: 5rem; */
+    border-radius: 56% 44% 73% 27%/ 45% 68% 32% 55% ;
+    
 }
     
 
