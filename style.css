@@ -15,12 +15,12 @@ body {
 
 .hero-container {
     float: center;
-    max-width: 960px;
+    max-width: 400px;
     margin-left: auto;
     margin-right: auto;
     padding: left 1rem;
     padding: right 1rem;
-    background-color: #98710e;
+    background-color: #fbf1d9;
     
     padding-top: 200px;
     padding-bottom:200px;
