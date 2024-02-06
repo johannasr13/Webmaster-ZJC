@@ -49,14 +49,14 @@ div {
 }
 
 .logo {
-    position: fixed;
+    position: relative;
     top: 0px;
     right:0px;
 
     
 }
 .TSA {
-    position: fixed;
+    position: relative;
     top: 0px;
     right:0px;
     
