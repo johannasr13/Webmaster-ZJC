@@ -72,8 +72,8 @@ img.TSA {
 
 .column-top{
     position: fixed;
-    top: 0px;
-    right: 0px;
+    top: 55px;
+    right: 0;
 }
 .top {
     position: fixed;
