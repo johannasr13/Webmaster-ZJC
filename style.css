@@ -75,3 +75,10 @@ img.TSA {
     top: 0px;
     right: 0px;
 }
+.top {
+    position: fixed;
+    height: auto;
+    right: 0px;
+    width: 500px;
+
+}
