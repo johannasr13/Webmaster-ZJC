@@ -8,6 +8,7 @@ body {
     background-color: #98710e;
     background-image: url("Tidal Energy.png");
     background-repeat: no-repeat;
+    object-fit: contain;
     color:rgb(0, 0, 0); 
 
 
