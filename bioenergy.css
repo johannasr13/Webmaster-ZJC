@@ -1,11 +1,8 @@
-<style>
-body {
-    background-color: #98710e;
-    background-image: url("bioenergy.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    color:rgb(0, 0, 0); 
 
 
+.fit {
+  max-width: 99%;
+  max-height: 99%;
 }
-</style>
+<img class="fit" src="bioenergy.png">
+
