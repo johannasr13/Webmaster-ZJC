@@ -5,9 +5,4 @@ body {
    
     color:rgb(0, 0, 0); 
 }
-.fit {
-  max-width: 99%;
-  max-height: 99%;
-}
-<img class="fit" src="bioenergy.png">
 
