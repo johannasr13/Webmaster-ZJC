@@ -1,8 +1,14 @@
+::selection {
+    margin: 0;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 
-    body {
-    background-image: url("Tidal Energy.png");
-    background-repeat: no-repeat;
-    background-size: 2100px 1181px;
-    z-index: 1;
 }
 
+body {
+    background-color: #98710e;
+    background-image: url("hydroenergy.png");
+    background-repeat: no-repeat;
+    color:rgb(0, 0, 0); 
+
+
+}
